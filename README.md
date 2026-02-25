@@ -2,7 +2,7 @@
 
 ## Incharge — Cyber Rig | Drilling Engineer | AI & ML Enthusiast | ONGC
 
-I'm a drilling engineer with 10+ years of experience in oil and gas operations at ONGC, currently leading Cyber Rig Ng2000-2 daily operations in Agartala, Tripura. Passionate about bridging domain expertise with AI and Machine Learning to transform energy operations.
+I'm a drilling engineer with 10+ years of experience in oil and gas operations at ONGC, currently leading Cyber Rig  daily operations in Agartala, Tripura. Passionate about bridging domain expertise with AI and Machine Learning to transform energy operations.
 
 ---
 
