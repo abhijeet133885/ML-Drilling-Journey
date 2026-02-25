@@ -65,4 +65,5 @@ Cyber Rig Systems | Drilling Operations | Well Control | Downhole Operations | F
 
 - LinkedIn:https://www.linkedin.com/in/abhijeet-bhagat-4a944b69/
 - Email: ab.dtu10@gmail.com
+
 *"Where drilling engineering meets artificial intelligence — building the future of energy operations."*
