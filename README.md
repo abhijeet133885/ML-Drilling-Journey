@@ -1,6 +1,6 @@
  Hi, I'm Abhijeet Bhagat
 
-## Rig Incharge — Cyber Rig | Drilling Engineer | AI & ML Enthusiast | ONGC
+## Incharge — Cyber Rig | Drilling Engineer | AI & ML Enthusiast | ONGC
 
 I'm a drilling engineer with 10+ years of experience in oil and gas operations at ONGC, currently leading Cyber Rig Ng2000-2 daily operations in Agartala, Tripura. Passionate about bridging domain expertise with AI and Machine Learning to transform energy operations.
 
@@ -63,7 +63,6 @@ Cyber Rig Systems | Drilling Operations | Well Control | Downhole Operations | F
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
-
+- LinkedIn:https://www.linkedin.com/in/abhijeet-bhagat-4a944b69/
+- Email: ab.dtu10@gmail.com
 *"Where drilling engineering meets artificial intelligence — building the future of energy operations."*
