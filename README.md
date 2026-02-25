@@ -48,7 +48,7 @@ Cyber Rig Systems | Drilling Operations | Well Control | Downhole Operations | F
 
 ---
 
-## 📚 Current Projects
+##  Current Projects
 
 -  Kaggle Learn — Python and ML fundamentals
 -  Predictive Maintenance for Rig Equipment
