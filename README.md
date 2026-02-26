@@ -55,6 +55,8 @@ Cyber Rig Systems | Drilling Operations | Well Control | Downhole Operations | F
 -  Drilling Parameter Optimization using ML
 -  Cyber Rig Sensor Data Analysis
 
+
+
 ##  Experience Across Assets
 
 - **Agartala, Tripura** — Rig Incharge, Cyber Rig (Current)
